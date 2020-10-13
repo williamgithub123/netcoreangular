@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d447e5f-9d53-4ee1-b047-89d14cba845a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/angular/src/app/_nav.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/containers/default-layout/default-layout.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/containers/default-layout/default-layout.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/containers/default-layout/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/containers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/base-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/base.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/cards.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/cards.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/carousels.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/carousels.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/collapses.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/collapses.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/forms.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/forms.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/navbars/navbars.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/navbars/navbars.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/navbars/navbars.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/navbars/navbars.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/paginations.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/paginations.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/popovers.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/popovers.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/progress.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/progress.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/switches.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/switches.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/tables.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/tables.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/tabs.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/tabs.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/tooltips.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/base/tooltips.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/brand-buttons.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/brand-buttons.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/buttons-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/buttons.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/buttons.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/buttons.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/dropdowns.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/dropdowns.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/buttons/dropdowns.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/chartjs/chartjs-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/chartjs/chartjs.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/chartjs/chartjs.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/chartjs/chartjs.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/dashboard/dashboard-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/dashboard/dashboard.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/dashboard/dashboard.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/dashboard/dashboard.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/error/404.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/error/404.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/error/500.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/error/500.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/coreui-icons.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/coreui-icons.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/flags.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/flags.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/font-awesome.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/font-awesome.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/icons-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/icons.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/simple-line-icons.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/icons/simple-line-icons.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/alerts.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/alerts.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/badges.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/badges.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/modals.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/modals.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/notifications-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/notifications/notifications.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/theme/colors.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/theme/colors.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/theme/theme-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/theme/theme.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/theme/typography.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/theme/typography.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/widgets/widgets-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/widgets/widgets.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/widgets/widgets.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/app/views/widgets/widgets.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/avatars/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/brand/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/assets/img/brand/sygnet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/scss/_custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/scss/vendors/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular/src/scss/vendors/chart.js/chart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/assets/appconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/assets/appconfig.production.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/AppConsts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/app-component-base.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/auth/app-auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/auth/auth-route-guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/helpers/SignalRAspNetCoreHelper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/helpers/UrlHelper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/service-proxies/service-proxies.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/service-proxies/service-proxy.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/session/app-session.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project-angular/src/shared/shared.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-angular/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-project-angular/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-project-angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-project-angular/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-angular/src/app/views/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-project-angular/src/app/views/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-angular/src/app/views/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-project-angular/src/app/views/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-angular/src/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-project-angular/src/typings.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-angular/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-project-angular/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1icqs0DQPrhUg0KroB5SONdfZJ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/angular" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d447e5f-9d53-4ee1-b047-89d14cba845a" name="Default Changelist" comment="" />
+      <created>1602217430731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602217430731</updated>
+      <workItem from="1602217432026" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602217474061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602217474061" />
+  </component>
+</project>

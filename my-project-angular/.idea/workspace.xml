@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ced79155-b4c7-46dc-8eaa-60c5bc938652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.run/Angular Application.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/model/movie.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/model/response.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/model/response_obj.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/model/result.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/movie.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/movie.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/movie/form_movie.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/movie/form_movie.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/movie/list_movie.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/movie/list_movie.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/movie/movie-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/movie/movie.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/_nav.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/_nav.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.routing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.routing.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/base/tables.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/base/tables.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/base/tables.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/base/tables.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ifQXPUZkmO4e6ao1x4q0VCHejw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="G:\PROYECTOS\eduardoGomez\5.8.1\my-project-angular\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\PROYECTOS\eduardoGomez\5.8.1\my-project-angular\src\app\model" />
+      <recent name="G:\PROYECTOS\eduardoGomez\5.8.1\my-project-angular\src\app\views\movie" />
+      <recent name="G:\PROYECTOS\eduardoGomez\5.8.1\my-project-angular\src\app\services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Angular Application">
+    <configuration name="Tests (ng)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (ng-e2e)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Karma.Tests (ng)" />
+      <item itemvalue="npm.Angular CLI Server" />
+      <item itemvalue="Protractor.E2E Tests (ng-e2e)" />
+      <item itemvalue="JavaScript Debug.Angular Application" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced79155-b4c7-46dc-8eaa-60c5bc938652" name="Default Changelist" comment="" />
+      <created>1602296205576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602296205576</updated>
+      <workItem from="1602296207327" duration="3744000" />
+      <workItem from="1602300665770" duration="3854000" />
+      <workItem from="1602305607256" duration="6232000" />
+      <workItem from="1602456993625" duration="13049000" />
+      <workItem from="1602519088544" duration="397000" />
+      <workItem from="1602588384328" duration="3009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602457417367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602457417367" />
+    <state width="944" height="466" key="DebuggerActiveHint" timestamp="1602592317603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="944" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1602592317603" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602512617783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602512617783" />
+    <state width="979" height="187" key="GridCell.Tab.0.bottom" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.0.center" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.0.left" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.0.right" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.1.bottom" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.1.center" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.1.left" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.1.right" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.2.bottom" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.2.center" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.2.left" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.2.right" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.3.bottom" timestamp="1602592605194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592605194" />
+    <state width="979" height="187" key="GridCell.Tab.3.center" timestamp="1602592605194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1602592605194" />
+    <state width="979" height="187" key="GridCell.Tab.3.left" timestamp="1602592605193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1602592605193" />
+    <state width="979" height="187" key="GridCell.Tab.3.right" timestamp="1602592605194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="979" height="187" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1602592605194" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602516362565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1602516362565" />
+    <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602459739141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1602459739141" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1602448383239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602448383239" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602451001331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602451001331" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602507437862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602507437862" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/views/base/tables.component.ts</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/views/movie/list_movie.component.ts</url>
+          <line>77</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/views/movie/form_movie.component.ts</url>
+          <line>46</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/views/movie/form_movie.component.ts</url>
+          <line>71</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,63 @@
+<!--/Filtros-->
+<div class="animated fadeIn" *ngIf="showfilter">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="card">
+          <div class="card-header">
+            <strong>Filtrar</strong>
+            <small>Película</small>
+          </div>
+          <div class="card-body">
+            <div class="row">
+              <div class="form-group col-sm-4">
+                <label for="titulo">Título</label>
+                <input type="text" class="form-control" id="titulo" placeholder="Título" name="titulo"
+                       [(ngModel)]="movie.director">
+              </div>
+              <div class="form-group col-sm-4">
+                <label for="director">Director</label>
+                <input type="text" class="form-control" id="director" placeholder="Director" name="director"
+                       [(ngModel)]="movie.productor">
+              </div>
+              <div class="form-group col-sm-4">
+                <label for="year">Año</label>
+                <input type="number" class="form-control" id="year" placeholder="Año" name="year"
+                       [(ngModel)]="movie.year">
+              </div>
+            </div>
+          </div>
+          <div class="card-footer">
+            <button type="button" class="btn btn-sm btn-primary" style="float: right" (click)="Filtrar()"><i class="fa fa-dot-circle-o"></i> Filtrar
+            </button>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--/Filtros-->
+
+<!--Listado de Peliculas-->
+<div class="animated fadeIn">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="card">
+        <div class="card-header">
+          <i class="fa fa-align-justify"></i> Catálogo de Películas
+          <button type="button" class="btn btn-sm btn-danger" style="float: right;margin-left: 10px" (click)="GetPeliculas()"><i class="fa fa-ban"></i> Listar
+          </button>
+          <button type="button" class="btn btn-sm btn-primary" style="float: right" (click)="ShowFilter()"><i class="fa fa-dot-circle-o"></i> Filtros
+          </button>
+        </div>
+        <div class="card-body">
+          <ng2-smart-table [settings]="settings" [source]="data"
+                           (delete)="onDeleteConfirm($event)"
+                           (create)="onCreateConfirm($event)"
+                           (edit)="onSaveConfirm($event)">
+          </ng2-smart-table>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+<!--/Listado de Peliculas-->

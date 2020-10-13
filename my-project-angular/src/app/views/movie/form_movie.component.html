@@ -1,0 +1,35 @@
+<div class="animated fadeIn">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="card">
+        <form #Form="ngForm" (ngSubmit)="submit()">
+          <div class="card-header">
+            <strong>Pelicula</strong>
+            <small>Formulario</small>
+          </div>
+          <div class="card-body">
+            <div class="form-group">
+              <label for="titulo">Título</label>
+              <input type="text" class="form-control" id="titulo" placeholder="Título" name="titulo"
+                     [(ngModel)]="movie.director">
+            </div>
+            <div class="form-group">
+              <label for="director">Director</label>
+              <input type="text" class="form-control" id="director" placeholder="Director" name="director"
+                     [(ngModel)]="movie.productor">
+            </div>
+            <div class="form-group">
+              <label for="year">Año</label>
+              <input type="number" class="form-control" id="year" placeholder="Año" name="year"
+                     [(ngModel)]="movie.year">
+            </div>
+          </div>
+          <div class="card-footer">
+            <button type="submit" class="btn btn-sm btn-primary"><i class="fa fa-dot-circle-o"></i> {{namebutton}}
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
